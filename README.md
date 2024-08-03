@@ -1,4 +1,4 @@
-# 🎉Hello, Go
+# 🚀Hello, Go
 
 ```
 go run hello.go
